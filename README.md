@@ -9,9 +9,9 @@ This whole project started with the idea of making a copy from a well-known webs
 
 I use:
 
--HTML;
+•HTML;
 
--TailwindCSS;
+•TailwindCSS;
 
--React Framework;
+•React Framework;
 
